@@ -31,7 +31,7 @@ I extend an invitation for your invaluable feedback, visionary input, and potent
 
 Embark with me on this journey of trash-catching and evolution! 🌌🎉
 
-**Colaboration:** <a href='https://github.com/GustavoBGil' target = blank>Gustavo Busnardo Gil</a>
+**Colaboration:** <a href='https://github.com/GustavoBGil' target = _blank>Gustavo Busnardo Gil</a>
 
 **Contact:** odiliolopes16@gmail.com
 
